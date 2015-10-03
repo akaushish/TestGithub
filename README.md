@@ -1,2 +1,2 @@
 # TestGithub
-This repository is testing purpose
+This repository is test
